@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0905-sort-array-by-parity](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0905-sort-array-by-parity](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
