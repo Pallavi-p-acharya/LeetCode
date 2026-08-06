@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0258-add-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
