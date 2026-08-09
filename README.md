@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0152-maximum-product-subarray) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
