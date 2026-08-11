@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0242-valid-anagram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Linked List
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
