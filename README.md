@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0414-third-maximum-number) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
