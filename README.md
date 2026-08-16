@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
