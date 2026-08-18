@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0260-single-number-iii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
