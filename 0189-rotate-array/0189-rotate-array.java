@@ -8,7 +8,6 @@ class Solution {
             left++;
             right--;
         }
-        int[] result=new int[nums.length];
         k=k%nums.length;
         left=0;
         right=k-1;
@@ -16,7 +15,6 @@ class Solution {
             temp=nums[left];
             nums[left]=nums[right];
             nums[right]=temp;
-            result[left]=temp;
             left++;
             right--;
         }
@@ -26,7 +24,6 @@ class Solution {
             temp=nums[left];
             nums[left]=nums[right];
             nums[right]=temp;
-            result[left]=temp;
             left++;
             right--;
         }
