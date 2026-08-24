@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
