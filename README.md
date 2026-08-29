@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0242-valid-anagram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0260-single-number-iii) |
+| [2351-first-letter-to-appear-twice](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
