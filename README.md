@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1929-concatenation-of-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
