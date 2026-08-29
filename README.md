@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1929-concatenation-of-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
