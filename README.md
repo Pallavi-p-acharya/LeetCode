@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0258-add-digits) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
