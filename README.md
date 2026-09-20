@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3498-reverse-degree-of-a-string](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
