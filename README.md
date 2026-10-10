@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0412-fizz-buzz) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pallavi-p-acharya/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
